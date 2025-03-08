@@ -1,0 +1,5 @@
+NO SUDO!
+This does not need to be ran as admin.
+
+Just run the script, enter the url. It will create a folder in same directory.
+It will put all 3 files there. The Video, MP3, Thumbnail. All in one shot.
